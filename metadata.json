@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance",
+  "description": "Comprehensive personal finance ledger, account tracking, investments, and loan management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
